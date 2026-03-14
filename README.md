@@ -1,3 +1,6 @@
+
+College website Simulator:This code simulates a college website by taking names and rolls and checking them then calculating marks of those subjects and other actions as well.The three names and rolls used in the website are Awais(721),Saif(726),Haris(709)
+
       //This code simulates the structure of a college website,ofcourse it needs many things but this basic code helped me understand a lot about C language.
       #include <stdio.h>
       #include <conio.h>
